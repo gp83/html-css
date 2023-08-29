@@ -1,0 +1,12 @@
+body {
+  background: #f5f5f5;
+  font-family: "Lusitana", serif;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+ul,
+ol {
+  list-style: none;
+}
